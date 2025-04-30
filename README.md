@@ -17,7 +17,7 @@ This project explores the use of machine learning to predict housing prices base
 5. Provide insights into market trends and property valuations to assist a variety of stakeholders.
 
 ## 📂 Dataset
-Source: USA Real Estate Dataset on Kaggle
+Source: [USA Real Estate Dataset on Kaggle](https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset)
 
 Size: 2,226,382 rows, 12 columns
 
@@ -54,8 +54,8 @@ Extracted and encoded temporal and location-based features
 | Model	| Key Strengths |	Hyperparameters |
 | ------| --------------| ----------------|
 | Linear Regression	| Simplicity |	Default |
-|Random Forest	| Non-linearity handling	| max_depth=10, n_estimators=200 |
-|Boosted Tree Regressor |	Improved accuracy	| max_depth=10, n_estimators=200 |
+|Random Forest	| Non-linearity handling	| `max_depth=10, n_estimators=200` |
+|Boosted Tree Regressor |	Improved accuracy	| `max_depth=10, n_estimators=200` |
 | Support Vector Machine	| High-dimensional data	| Linear kernel | 
 
 ### Validation:
