@@ -1,5 +1,5 @@
 # 🏡 Real Estate Pricing Model with Machine Learning
-## Team Members:
+## Members:
 - Vishvah Uthayakumar
 - Shayaan Kazi
 - Dhruv Chopra
